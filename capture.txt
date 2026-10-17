@@ -1,0 +1,68 @@
+npm notice run paseo@0.11.2 npx
+npm notice run 'paseo' run Run an accessibility audit demo: swarm 150. Check 10 site pages with one agent per accessibility check. --host 127.0.0.1:6768 --provider claude-sim --env ANTHROPIC_BASE_URL=http://127.0.0.1:8789 --mode bypassPermissions --title Accessibility audit --cwd /tmp/paseo-accessibility-audit --workspace wks_c9d2f7d0fd1e7606 --no-wait --json
+Using workspace wks_c9d2f7d0fd1e7606
+0 0 of 150 agents done, 16 running, 0 stalled, 0 failed
+PASS tooltip Running Home form label audit
+30 17 of 150 agents done, 16 running, 0 stalled, 0 failed
+60 34 of 150 agents done, 16 running, 0 stalled, 0 failed
+90 50 of 150 agents done, 16 running, 0 stalled, 0 failed
+120 66 of 150 agents done, 16 running, 0 stalled, 0 failed
+PASS tooltip Failed Sign up touch target audit
+PASS tooltip Stalled Home form label audit
+150 82 of 150 agents done, 15 running, 1 stalled, 1 failed
+180 98 of 150 agents done, 16 running, 0 stalled, 2 failed
+210 107 of 150 agents done, 16 running, 0 stalled, 4 failed
+240 128 of 150 agents done, 16 running, 0 stalled, 6 failed
+270 135 of 150 agents done, 6 running, 0 stalled, 9 failed
+PASS collapsed into Workflow row; 283 frames; feat/workflow-swarm-dots
+New workspace
+History
+Search
+Schedules
+Workspaces
+P
+paseo-accessibility-audit
+paseo-accessibility-audit
+now
+W
+wf-swarm-demo
+wf-swarm-demo
+16h
+W
+wf-swarm-sim
+wf-swarm-sim
+4h
+wf-swarm-sim
+11h
+wf-swarm-sim
+3h
+wf-swarm-sim
+11h
+wf-swarm-sim
+4h
+wf-swarm-sim
+11h
+wf-swarm-sim
+4h
+paseo-accessibility-audit
+Accessibility audit
+Accessibility audit
+Accessibility audit
+Accessibility audit
+Accessibility audit
+Accessibility audit
+Run an accessibility audit demo: swarm 150. Check 10 site pages with one agent per accessibility check.
+6:57 AM
+Workflow
+
+Accessibility audit launched across 10 pages and 15 checks (simulated).
+
+Accessibility audit finished (simulated).
+
+7:00 AM
+7:00 AM
+1 subagent
+Opus 5.5
+Medium
+Bypass
+Drop files here
